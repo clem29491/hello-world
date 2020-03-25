@@ -2,4 +2,13 @@
 Just another repository
 
 Bonjour, moi c'est clément, j'ai 18 ans
-On est au 5 ème jour du confinement 
+
+Lignes de commandes dans l'ordre :
+  - git init
+  - git clone https://github.com/clem29491/hello-world.git
+  - cd hello-world
+  - git remote
+  - git branch nouvellebranche
+  - git checkout nouvellebranche
+  - git add index.html
+  - git commit -m "changement effectué avec le terminal test ?"
