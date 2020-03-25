@@ -11,6 +11,6 @@ Lignes de commandes dans l'ordre :
   - git branch nouvellebranche
   - git checkout nouvellebranche
   - git add index.html
-  - git psuh
+  - git push
   - git push --set-upstream origin nouvellebranche
   - 
